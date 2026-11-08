@@ -1,0 +1,87 @@
+{
+  "job_id": "AJ_KZsDSnaXKXka",
+  "room_id": "RM_hxQmJwrzqLRZ",
+  "room": "patient-test-144e152b",
+  "events": [
+    {
+      "type": "conversation_item_added",
+      "item": {
+        "id": "item_e8d7e0e8df7c",
+        "type": "agent_handoff",
+        "old_agent_id": null,
+        "new_agent_id": "patient_agent",
+        "created_at": 1794169763.2042322
+      },
+      "created_at": 1794169763.2086768
+    },
+    {
+      "type": "agent_state_changed",
+      "old_state": "initializing",
+      "new_state": "listening",
+      "created_at": 1794169763.4335392
+    },
+    {
+      "type": "close",
+      "error": null,
+      "reason": "participant_disconnected",
+      "created_at": 1794169765.516649
+    }
+  ],
+  "audio_recording_path": "C:\\Users\\khafn\\AppData\\Local\\Temp\\tmp6xl9kcqf\\audio.ogg",
+  "audio_recording_started_at": 1794169763.1830761,
+  "options": {
+    "allow_interruptions": true,
+    "discard_audio_if_uninterruptible": true,
+    "min_interruption_duration": 0.5,
+    "min_interruption_words": 0,
+    "min_endpointing_delay": 0.3,
+    "max_endpointing_delay": 2.5,
+    "max_tool_steps": 3,
+    "user_away_timeout": 15.0,
+    "min_consecutive_speech_delay": 0.0,
+    "preemptive_generation": {
+      "enabled": true,
+      "preemptive_tts": false,
+      "max_speech_duration": 10.0,
+      "max_retries": 3
+    },
+    "recording_options": {
+      "audio": true,
+      "traces": true,
+      "logs": true,
+      "transcript": true,
+      "redaction": false
+    }
+  },
+  "chat_history": {
+    "items": [
+      {
+        "id": "item_e8d7e0e8df7c",
+        "type": "agent_handoff",
+        "new_agent_id": "patient_agent",
+        "created_at": 1794169763.2042322
+      },
+      {
+        "id": "item_2239e9d44892",
+        "type": "agent_config_update",
+        "instructions": "\n            You are Sarah Miller, a patient calling a doctor's office.\n\n            Your goal: Schedule a routine appointment next week, preferably in the morning.\n\n            Follow these rules:\n            - Speak naturally, like a real patient.\n            - Keep responses short and friendly.\n            - Listen carefully before answering.\n            - Answer the receptionist's questions.\n            - Ask for clarification when necessary.\n            - Do not invent appointment confirmations.\n            - Use only fictional patient information.\n            - Stay focused on your goal.\n            - Thank the receptionist before ending the call.\n            ",
+        "created_at": 1794169763.280034
+      }
+    ]
+  },
+  "timestamp": 1794169796.7254634,
+  "usage": null,
+  "sdk_version": "1.8.10",
+  "agent_name": "patient-voice-qa",
+  "tags": [],
+  "duration_ms": 33542,
+  "user_turns": 0,
+  "errors": {
+    "llm": 0,
+    "stt": 0,
+    "tts": 0,
+    "realtime": 0,
+    "interruption": 0
+  },
+  "close_reason": "CR_PARTICIPANT_DISCONNECTED"
+}
