@@ -1,56 +1,77 @@
 
+import json
+from pathlib import Path
+
 from dotenv import load_dotenv
+from livekit.agents import Agent, AgentSession, AgentServer, JobContext, cli
 
-from livekit.agents import (
-    Agent,
-    AgentSession,
-    AgentServer,
-    JobContext,
-    cli,
-)
+from livekit.plugins import deepgram, openai, cartesia, silero
 
-from livekit.plugins import (
-    deepgram,
-    openai,
-    cartesia,
-    silero,
-)
+load_dotenv(override=True)
 
 
-# STEP 1: Load API keys from the .env file.
-load_dotenv()
-
-
-# STEP 2: Create our AI patient.
+# STEP 1: Define the patient.
 class PatientAgent(Agent):
-
-    def __init__(self):
+    def __init__(self, scenario):
         super().__init__(
-            instructions="""
+            instructions=f"""
             You are Sarah Miller, a patient calling a doctor's office.
 
-            Your goal is to schedule a routine appointment
-            next week, preferably in the morning.
+            Your goal: {scenario}
 
             Follow these rules:
-            - Speak naturally, like a real person.
+            - Speak naturally, like a real patient.
             - Keep responses short and friendly.
+            - Listen carefully before answering.
             - Answer the receptionist's questions.
             - Ask for clarification when necessary.
             - Do not invent appointment confirmations.
-            - Do not provide real sensitive patient information.
+            - Use only fictional patient information.
+            - Stay focused on your goal.
             - Thank the receptionist before ending the call.
             """
         )
 
 
-# STEP 3: Create our LiveKit server.
+# STEP 2: Create the LiveKit server.
 server = AgentServer()
 
 
-# STEP 4: Define what happens when a conversation starts.
-@server.rtc_session(agent_name="patient-voice-qa")
+# STEP 3: Save the session report after each call.
+async def save_report(ctx: JobContext):
+    Path("reports").mkdir(exist_ok=True)
+
+    report = ctx.make_session_report()
+    filename = Path("reports") / f"{ctx.room.name}.json"
+
+    filename.write_text(
+        json.dumps(report.to_dict(), indent=2),
+        encoding="utf-8",
+    )
+
+    print(f"Session report saved: {filename}")
+
+
+# STEP 4: Run the patient agent.
+@server.rtc_session(
+    agent_name="patient-voice-qa",
+    on_session_end=save_report,
+)
 async def main(ctx: JobContext):
+
+    # Read the scenario passed from call.py.
+    data = json.loads(ctx.job.metadata or "{}")
+
+    scenario = data.get(
+        "scenario",
+        "Schedule a routine appointment next week in the morning.",
+    )
+
+    # Connect to the room.
+    await ctx.connect()
+
+    # Wait for the receptionist's phone connection.
+    await ctx.wait_for_participant(identity="receptionist")
 
     # Create our speech → AI → speech pipeline.
     session = AgentSession(
@@ -60,14 +81,12 @@ async def main(ctx: JobContext):
         vad=silero.VAD.load(),
     )
 
-    # Start the conversation session.
+    # Start the patient conversation and enable recording.
     await session.start(
-        agent=PatientAgent(),
+        agent=PatientAgent(scenario),
         room=ctx.room,
+        record=True,
     )
-
-    # Connect to the LiveKit room.
-    await ctx.connect()
 
 
 # STEP 5: Run the application.
