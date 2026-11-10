@@ -1,0 +1,41 @@
+Receptionist: This call may be recorded for quality and training purposes.
+
+Receptionist: For calling Pivot Point Orthopaedics. Part of Pretty Good AI, How may I help you today?
+
+Patient: Hi, this is Khaled Hafnaoui. I'm calling to schedule a routine appointment for next week, preferably in the morning.
+
+Receptionist: I see you're calling from the number we have on file. Am I speaking with Sarah?
+
+Patient: No, this is Khaled Hafnaoui, not Sarah.
+
+Receptionist: Please provide your full name and date of birth.
+
+Patient: My full name is Khaled Hafnaoui, and my date of birth is January 15, 1990.
+
+Receptionist: Could you please spell out your first and last name for me just to make sure I have it right?
+
+Patient: Sure! It's K-H-A-L-E-D H-A-F-N-A-O-U-I.
+
+Receptionist: Thank you. Just to confirm, your name is spelled k h a l e d h a f n a o u I. And your date of birth is January fifteenth nineteen ninety. Is that correct?
+
+Patient: Yes, that's correct!
+
+Receptionist: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, let me know, and we can confirm your name and date of birth again.
+
+Patient: Yes, please use my phone number to look up my record. My phone number is 555-123-4567.
+
+Receptionist: I'd have your phone number as five five five one two three four five six seven and your date of birth as January fifteenth nineteen ninety. Is that correct?
+
+Patient: Yes, that's correct!
+
+Receptionist: I wasn't able to find your record in our system. I can connect you to our patient support team. I can also help with booking rescheduling, or canceling appointments. Medication refills, insurance updates, and general clinic questions. Would you like to give me a try?
+
+Patient: Yes, I’d appreciate your help in scheduling that routine appointment for next week in the morning, if
+
+Receptionist: Since I couldn't find your record, I'll connect you to our patient support team. Please stay on the line. Transferring you now. Thank you.
+
+Patient: Thank you for your help!
+
+Receptionist: Hello. You've reached the Pretty Good AI test line. Goodbye.
+
+Patient: Goodbye!

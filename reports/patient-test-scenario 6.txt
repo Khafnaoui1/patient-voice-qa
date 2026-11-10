@@ -1,0 +1,21 @@
+Receptionist: This call may be recorded for quality and training purposes.
+
+Receptionist: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?
+
+Patient: Hi, thank you for taking my call. I'm Khaled Hafnaoui, and I'm trying to find out where your office is located. Can you help me with that?
+
+Receptionist: Sure. I can help with your request. Before I share the office address, I need to confirm a few details. May I ask, are you calling just for general information or you also need help with something related to your care or appointment?
+
+Patient: I’m just calling for general information about the location. What's the address?
+
+Receptionist: The clinic address is one two three four Recovery Way, suite two hundred, Austin. If you need anything else, just let me know.
+
+Patient: Thank you for the address! Can you also tell me the best way to get there from downtown Austin?
+
+Receptionist: I'm not able to provide directions or navigation details. But the clinic is at one two three four Recovery Way, suite two hundred, Austin. If you need more help, let me know.
+
+Patient: I understand, thank you for the information. I’ll check a map for directions. I appreciate your help!
+
+Receptionist: You're welcome. You have any other questions about Pivot Point Orthopaedics, feel free to call back. Have a great day.
+
+Patient: Thank you! I appreciate it. Have a

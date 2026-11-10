@@ -1,0 +1,43 @@
+Receptionist: This call may be recorded for quality and training purposes.
+
+Receptionist: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?
+
+Patient: Hi there! My name is Khaled Hafnaoui, and I'm calling to ask about scheduling an appointment for a consultation regarding some knee pain I've been experiencing. Could you assist me with that?
+
+Receptionist: I see you're calling from the number we have on file. Am I speaking with Sarah?
+
+Patient: Actually, this is Khaled Hafnaoui, not Sarah. I'm just looking to schedule that appointment. Could you help me with that?
+
+Receptionist: Please provide your full name and date of birth.
+
+Receptionist: I need this information to look up your record before we can schedule your appointment.
+
+Patient: Sure! My full name is Khaled Hafnaoui, and my date of birth is January 5, 1985. Could you now check my record for the appointment?
+
+Receptionist: Just to confirm, could you please spell your first and last name for me? I have your date of birth as January fifth nineteen eighty five. Is that correct?
+
+Patient: Yes, that’s correct! My name is spelled K-H-A-L-E-D H-A-F-N-A-O-U-I. Can we move forward with scheduling the appointment now?
+
+Receptionist: You like me to look up your record using your phone number? If so, please provide the number you have on file with us.
+
+Receptionist: If you're not sure, I can confirm your name and date of birth again instead. Which would you prefer?
+
+Patient: I’d prefer to confirm my name and date of birth again, just to make sure everything is accurate. My name is Khaled Hafnaoui, and my date of birth is January 5, 1985.
+
+Receptionist: I have your name as Khaled Hefnaui. Your date of birth is January fifth nineteen eighty five, and your phone number is four eight four two seven six three one four six. Is all of that correct?
+
+Patient: Actually, my last name is spelled Hafnaoui, not Hefnaui. But the rest is correct, and my phone number is also accurate. Can we proceed with scheduling the appointment now?
+
+Receptionist: I can't proceed further right now. But I can make sure our clinic support team follows up with you.
+
+Receptionist: Would you like me to connect you to our patient support team?
+
+Patient: Yes, that would be great! Thank you for your help.
+
+Receptionist: Transferring you now. Thank you.
+
+Patient: Thank you! I appreciate
+
+Receptionist: Hello. You've reached the Pretty Good AI test line. Goodbye.
+
+Patient: Oh, it looks like I got disconnected. Thank you for your assistance earlier! Goodbye!

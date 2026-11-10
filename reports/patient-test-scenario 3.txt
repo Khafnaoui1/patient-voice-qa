@@ -1,0 +1,33 @@
+Receptionist: This call may be recorded for quality and training purposes.
+
+Receptionist: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?
+
+Patient: Hi, I’d like to cancel my upcoming appointment.
+
+Receptionist: I see you're calling from the number we have on file.
+
+Receptionist: Am I speaking with Sarah?
+
+Patient: Yes, you are.
+
+Receptionist: Please provide your date of birth.
+
+Patient: Sure, my date of birth is June 15, 1985.
+
+Receptionist: You'd have an appointment today Tuesday, November tenth, with Kelly Noble, MD. Can you tell me the reason you'd like to cancel this appointment?
+
+Patient: I need to cancel because of a scheduling conflict.
+
+Receptionist: Just to confirm, you want to cancel your appointment on Tuesday, November tenth with Kelly Noble, MD because of a scheduling conflict. Is that correct?
+
+Patient: Yes, that's correct.
+
+Receptionist: Your appointment today with Kelly Noble. MD has been canceled.
+
+Receptionist: Is there anything else I can help you with?
+
+Patient: No, that’s all for now. Thank you for your assistance!
+
+Receptionist: You're welcome. Have a great day.
+
+Patient: You too, thank you! Goodbye!

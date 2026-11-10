@@ -1,0 +1,45 @@
+Receptionist: This call may be recorded for quality and training purposes.
+
+Receptionist: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?
+
+Patient: Hi there! I’d like to request a refill of my routine medication, please.
+
+Receptionist: I see you're calling from the number we have on file.
+
+Receptionist: Am I speaking with Sarah?
+
+Patient: Yes, this is Khaled Hafnaoui.
+
+Receptionist: Provide your full date of birth.
+
+Patient: My date of birth is January 15, 1985.
+
+Receptionist: Just to confirm, could you please spell your first and last name for me?
+
+Patient: Sure! It's K-H-A-L-E-D H-A-F-N-A-O-U-I.
+
+Receptionist: Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number. If you're not sure, I can confirm your name and date of birth.
+
+Receptionist: Again instead. Would you prefer?
+
+Patient: You can go ahead and confirm my name and date of birth, please.
+
+Receptionist: Please spell your first and last name one more time and confirm your date of birth.
+
+Patient: Of course! It's K-H-A-L-E-D H-A-F-N-A-O-U-I, and my date of birth is January 15, 1985.
+
+Receptionist: I have your phone number as four eight four two seven six three one four six and your date of birth is January fifteenth nineteen eighty five. Is that correct?
+
+Patient: Yes, that's correct.
+
+Receptionist: I'm unable to find your record in our system right now. I can connect you to our patient support team for further help. Would you like to continue with me, or should I transfer you to a live agent?
+
+Patient: I’d prefer to connect with the patient support team, please. Thank you!
+
+Receptionist: Transferring you now. Thank you.
+
+Patient: Thank you for your help!
+
+Receptionist: Hello. You've reached the Pretty Good AI test line. Goodbye.
+
+Patient: Goodbye!

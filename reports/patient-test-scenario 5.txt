@@ -1,0 +1,29 @@
+Receptionist: This call may be recorded for quality and training purposes.
+
+Receptionist: Thanks for calling Pivot Point Orthopaedics. Aren't a pretty good AI. How may I help you today?
+
+Patient: Hi! I'm Khaled Hafnaoui. I'm calling to ask about your office's opening and closing hours.
+
+Receptionist: Can you please provide your full name and date of birth? I need this information before I can answer questions about the office.
+
+Patient: I understand, but I’m just looking for your office hours. Is there a way you can provide that without needing my personal information?
+
+Receptionist: You do not need to provide personal information for general office details. Our clinic is open Monday, Tuesday, and Thursday from nine AM to four PM, Wednesday from twelve PM to seven PM,
+
+Receptionist: and Friday from nine AM to twelve PM.
+
+Receptionist: Let me know if you need anything else.
+
+Patient: Thanks for the information! Could you also let me know if you’re open on weekends?
+
+Receptionist: We are not open on weekends. The clinic is open Monday through Friday only.
+
+Patient: Got it! Thanks for clarifying that. I appreciate your help today!
+
+Receptionist: You're welcome.
+
+Receptionist: If you have any other questions, feel free to ask.
+
+Receptionist: Have a great day.
+
+Patient: You too! Thank you for your assistance!

@@ -1,0 +1,51 @@
+Receptionist: This call may be recorded for quality and training purposes.
+
+Receptionist: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?
+
+Patient: Hi there! I’d like to schedule an appointment, please. I was wondering if there’s availability sometime soon, around... I think it might be... next week?
+
+Receptionist: Check the schedule for next week once I have your information. Can you please provide your date of birth?
+
+Patient: Sure! My date of birth is March 15, 1985.
+
+Receptionist: What kind of appointment do you need? For example, is this for a new patient consultation, a follow-up, a routine visit, something urgent, or a procedure.
+
+Patient: It's for a new patient consultation.
+
+Receptionist: Do you have a specific provider you'd like to see or are you open to any available provider?
+
+Patient: I’m open to any available provider.
+
+Receptionist: There are several openings next week for a new patient consultation. Would you prefer a morning or afternoon appointment?
+
+Patient: I think afternoon would work best for me.
+
+Receptionist: The first available afternoon slot is Tuesday, November seventeenth at twelve PM with Doogie Howser. Would you like to book that time?
+
+Patient: Actually, could you confirm if that's the right date? I meant to say around next week, but I'm not sure about the exact day right now.
+
+Receptionist: No problem. Next week starts Monday, November sixteenth. Would you like to look at afternoon options for any specific days or should I suggest the earliest available afternoon slot?
+
+Patient: Let’s go with the earliest available afternoon slot instead.
+
+Receptionist: The earliest afternoon slot is Tuesday, November seventeenth at twelve PM with Dutiehauser.
+
+Receptionist: Would you like to book this appointment?
+
+Patient: Yes, let's go ahead and book that appointment for Tuesday, November seventeenth at twelve PM. Thank you!
+
+Receptionist: Your appointment for a new patient consultation is being booked for Tuesday, November seventeenth at twelve PM with Judy Hauser. I'll confirm once it's set.
+
+Patient: Great! Thank you
+
+Receptionist: Your appointment is set
+
+Patient: Awesome! Thank you for your
+
+Receptionist: You're all set.
+
+Patient: Thank you so much for your help! Have a great day!
+
+Receptionist: Your appointment is confirmed for Tuesday, November seventeenth at twelve PM with Doogie Howser at Pivot Point Orthopaedics. Please bring your photo ID insurance card, and a list of current medications. If you'd like a text with these details, just let me know. Have a great day.
+
+Patient: Thank you for the details! A text reminder would be great, please. Have

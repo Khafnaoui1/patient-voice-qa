@@ -1,0 +1,51 @@
+Receptionist: This call may be recorded for quality and training purposes.
+
+Patient: Hello! Thank
+
+Receptionist: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?
+
+Patient: Hi! I need to reschedule my appointment to another weekday.
+
+Receptionist: I see you're calling from the number we have on file. Am I speaking with Sarah?
+
+Patient: Actually, it's Khaled Hafnaoui.
+
+Receptionist: Please provide your full name and date of birth.
+
+Patient: My full name is Khaled Hafnaoui, and my date of birth is April 15, 1985.
+
+Receptionist: Could you please spell your first and last for me just to make sure I have it right? I have your date of birth as April fifteenth nineteen eighty five.
+
+Patient: Sure! It's K-H-A-L-E-D H-A-F-N-A-O-U-I. And yes, that's correct for my date of birth.
+
+Receptionist: Would you like me to look up your record using your phone number?
+
+Receptionist: If so, please tell me the number you have on file with us.
+
+Receptionist: If you're not sure, I can confirm your name and date of birth again.
+
+Patient: The phone number I have on file is 555-123-4567.
+
+Receptionist: I have your phone number as five five five one two three four five six seven.
+
+Receptionist: And your date of birth is April fifteenth nineteen eighty five.
+
+Receptionist: Is that correct?
+
+Patient: Yes, that's correct!
+
+Receptionist: You like me to connect you to our patient support team?
+
+Patient: No, I'd like to reschedule my appointment instead, please.
+
+Receptionist: I'm unable to access your record to reschedule your appointment. I recommend connecting you to our patient support team so they can help right away. Would you like me to transfer you now?
+
+Patient: Yes, please transfer me to the patient support team. Thank you!
+
+Receptionist: Transferring you now. Thank you.
+
+Patient: Thank you for your help!
+
+Receptionist: Hello. You've reached the Pretty Good AI test line. Goodbye.
+
+Patient: Oh, it seems I've been disconnected. Thank you again for your assistance!

@@ -1,0 +1,45 @@
+Receptionist: This call may be recorded for quality and training purposes.
+
+Receptionist: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?
+
+Patient: Hi there! I’m calling to find out if your office accepts my insurance.
+
+Receptionist: I see you're calling from the number we have on file. Am I speaking with Sarah?
+
+Patient: No, this is Khaled Hafnaoui. I think there might be a mix-up.
+
+Receptionist: No problem. Please tell me your full name and date of birth.
+
+Patient: Sure! My full name is Khaled Hafnaoui, and my date of birth is June 15, 1990.
+
+Receptionist: Could you please spell your first and last name for me just to make sure I have it right?
+
+Patient: Of course! My first name is spelled K-H-A-L-E-D, and my last name is spelled H-A-F-N-A-O-U-I.
+
+Receptionist: Would you like me to look up your record using your phone number? If so, please tell me the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+
+Patient: You can look up my record using my phone number. It’s 555-123-4567.
+
+Receptionist: I have your phone number as five five five one two three four five six seven and your date of birth as June fifteenth nineteen ninety. Is that correct?
+
+Patient: Yes, that's correct!
+
+Receptionist: I wasn't able to find your record in our system. I can connect you to our patient support team, or you can provide more details if you think there's a spelling or number issue. Would you like to speak with our support team?
+
+Patient: I appreciate the offer, but before that, can you tell me if you accept my insurance? I want to check that first.
+
+Receptionist: I can help with that. What insurance provider do you have?
+
+Patient: I have coverage through United Healthcare.
+
+Receptionist: FinetPoint Orthopedics accepts most insurance plans, including UnitedHealthcare. If you'd like to confirm your specific coverage or update your insurance on file, I can connect you to our support team. Would you like to do that?
+
+Patient: Yes, please connect me to the support team so I can confirm my coverage. Thank you!
+
+Receptionist: Transferring you now. Thank you.
+
+Patient: Thank you for your help!
+
+Receptionist: Hello. You've reached the Pretty Good AI test line. Goodbye.
+
+Patient: Goodbye!
